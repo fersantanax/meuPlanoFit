@@ -1,10 +1,9 @@
 #meuPlanoFit
 O `meuPlanoFit` é um projeto de aplicação web desenvolvida em Spring MVC
-com um banco de dados PostgreSQL para gerenciamento de contas a receber e
-contas a pagar.
+com um banco de dados PostgreSQL para gerenciamento de cadastro de alimentos, montagem de refeição e cálculo de calorias.
 ## Funcionalidades
 - Cadastro de alimentos
-- Somatorio de calorias
+- Cálculo de calorias
 - Montagem de refeições
 - Interface de usuário amigável usando Bootstrap e JQuery.
 ## Pré-requisitos
